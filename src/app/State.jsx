@@ -6,7 +6,7 @@ const State = () => {
     const [value, setValue] = useState("Abir Mahmud")
 
     const add = () => {
-        setValue("IDK WHo ") 
+        setValue("IDK WHo ")  
     }
 
 
